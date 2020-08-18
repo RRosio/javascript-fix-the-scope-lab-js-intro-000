@@ -21,7 +21,7 @@ function add2(n) {
   return n + two
 }
 
-var funkyFunction = mufunction() {
+var funkyFunction = function() {
   return mufunction() {
     return "FUNKY!"
   }
